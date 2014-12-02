@@ -1,4 +1,6 @@
-This is your new Play application
+sbt-scoverage tree issue
 =================================
 
-This file will be packaged with your application, when using `activator dist`.
+Local sbt script included:
+
+run './sbt clean coverage test' to produce the error
